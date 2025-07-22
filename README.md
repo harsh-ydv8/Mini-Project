@@ -8,7 +8,7 @@ This mini-project implements an Automatic License Plate Recognition (ALPR) syste
 
 To develop a deep learning-based ALPR system that:
 - Detects vehicles and isolates number plates from video frames
-- Recognizes and decodes alphanumeric text from plates
+- Recognizes and decodes alphanumeric text from the plates
 - Compares the performance of multiple CNN architectures
 - Supports real-time video input for practical deployment
 
